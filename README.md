@@ -20,7 +20,7 @@
 ・第1回ガクアルFESTA 高文連軽音学コンテスト "SouTh NolsE" ESP学園特別賞、観客賞  
 
 ## Link
-##### SNS
+#### SNS
 | Name | URL |
 |:--- |:---:|
 | Twitter | [@rocky_aws](https://twitter.com/rocky_aws) |
