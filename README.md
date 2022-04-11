@@ -1,4 +1,19 @@
-### Hi there 👋
+## About
+インフラエンジニアを目指す沖縄の専門学生。AWS認定挑戦中。
+
+趣味: 自作PC、ゲーム、音楽、映画
+
+## Certification
+AWS Certified Cloud Practitioner
+Linux 技術者認定 LinuC レベル1 認定
+経済産業省認定 基本情報技術者試験
+CompTIA Network+
+経済産業省認定 情報セキュリティマネジメント試験
+
+## Event
+第41回全国高等学校総合文化祭 沖縄県合同オーケストラ Cello
+第1回ガクアルFESTA 高文連軽音学コンテスト "SouTh NolsE" ESP学園特別賞、観客賞
+
 
 <!--
 **rockyx2000/rockyx2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
