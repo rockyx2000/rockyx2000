@@ -24,6 +24,7 @@
 | Name | URL |
 |:--- |:---:|
 | Twitter | [@rocky_aws](https://twitter.com/rocky_aws) |
+| Wantedly | [URL]()
 <!--
 **rockyx2000/rockyx2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
