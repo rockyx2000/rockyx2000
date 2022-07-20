@@ -20,6 +20,7 @@
 ・第1回ガクアルFESTA 高文連軽音学コンテスト "SouTh NolsE" ESP学園特別賞、観客賞  
 
 ## Link
+[Credly Badges](https://www.credly.com/users/hiroki-ohtake/badges)
 #### SNS
 | Name | URL |
 |:--- |:---:|
