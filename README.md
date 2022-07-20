@@ -4,6 +4,7 @@
 趣味: 自作PC、ゲーム、音楽、映画  
 
 ## Certification
+・AWS Certified Solutions Architect – Associate 
 ・AWS Certified Cloud Practitioner  
 ・Linux 技術者認定 LinuC レベル1 認定  
 ・経済産業省認定 基本情報技術者試験  
