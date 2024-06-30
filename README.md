@@ -1,9 +1,14 @@
 ## About
-インフラエンジニアを目指す沖縄の専門学生。AWS認定挑戦中。  
+23卒 インフラエンジニア。AWS認定全冠挑戦中。
+~~インフラエンジニアを目指す沖縄の専門学生。AWS認定挑戦中。~~  
 
 趣味: 自作PC、ゲーム、音楽、映画  
 
 ## Certification
+・AWS Certified: SAP on AWS – Specialty
+・AWS Certified Database – Specialty
+・AWS Certified SysOps Administrator – Associate
+・AWS Certified Developer – Associate
 ・AWS Certified Solutions Architect – Associate  
 ・AWS Certified Cloud Practitioner  
 ・Linux 技術者認定 LinuC レベル1 認定  
